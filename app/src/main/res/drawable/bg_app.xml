@@ -1,0 +1,8 @@
+<!-- res/drawable/bg_app.xml (arka plan gradyanı) -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <gradient
+        android:startColor="#4F64E9"
+        android:endColor="#6FD3FB"
+        android:type="linear"
+        android:angle="135"/>
+</shape>
